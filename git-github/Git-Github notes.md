@@ -13,7 +13,7 @@ Janvier 2020 : Installation de 2.25.0
 Latest update: January 13th 2020
 
 Paramétrage initial
-'git config --global user.name "José Relland"' 
+'<git config --global user.name "José Relland">' 
 'git config --global user.email --global "jose.relland@gmail.com"'
 
 
@@ -83,5 +83,5 @@ inidque "No commit yet"
 2. Lancer la commande de commit avec un commentaire pour dire pourquoi on fait cette mise à jour
 'git commit -m "Premier commit"'
 
-##Github
+## Github
 
