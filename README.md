@@ -1,4 +1,4 @@
-# MOOC-FUN-Python3
+# MOOC-FUN | Python3 : des fondamentaux aux concepts avancés du langage
 Learning Python3 with MOOC-FUN 
 
 Created by José Relland
@@ -7,10 +7,7 @@ January 27, 2020
 ![MOOC-FUN Python3 Main Image](/images/MOOC-FUN_Python3.png)
 
 
-# Python 3 : des fondamentaux aux concepts avancés du langage
-
 Link to the MOOC
-
 https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session01/about
 
 ## Semaine 1. Introduction au MOOC et aux outils Python
