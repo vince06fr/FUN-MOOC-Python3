@@ -14,9 +14,9 @@ Latest update: January 13th 2020
 
 Paramétrage initial
 
-'git config --global user.name "José Relland"' 
+    git config --global user.name "José Relland" 
 
-'git config --global user.email --global "jose.relland@gmail.com"'
+    git config --global user.email --global "jose.relland@gmail.com"
 
 
 ## pour info, un git help
