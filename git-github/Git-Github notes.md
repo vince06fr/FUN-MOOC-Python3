@@ -20,6 +20,7 @@ Paramétrage initial
 
 
 ## pour info, un git help
+<pre>
 'C:\>git help
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
@@ -65,7 +66,7 @@ collaborate (see also: git help workflows)
  branch
    push              Update remote refs along with associated objects
 
-'
+</pre>
 
 Création du répertoire c>/python/mooc
 
