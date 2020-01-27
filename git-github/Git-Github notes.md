@@ -4,7 +4,8 @@
 
 Ressources :
 https://www.youtube.com/watch?v=hPfgekYUKgk
-https://www.youtube.com/watch?v=4o9qzbssfII
+
+https://www.youtube.com/watch?v=DjEuROpsvp4
 
 ## Git
 https://git-scm.com/
