@@ -72,10 +72,10 @@ Création du répertoire c>/python/mooc
 
 Initialisation de git dans ce répertoire
 
-'C:\python\mooc>git init
+    C:\python\mooc>git init
 Initialized empty Git repository in C:/python/mooc/.git/'
 
-'git status'
+`git status`
 inidque "No commit yet"
 
 ## Le commit des fichiers dans le  répertoire se fait en deux étapes
