@@ -22,6 +22,6 @@ Ce sont les fichiers comme les images, pdf... qui ne peuvent pas être retourné
 
 3. Déplacement d'un fichier.
 
-3.1. Déplacement entre répertoire. Semble compliqué car on ne peut pas réécrire sur le répertoire. Revenir à l'état avant la mise dans le répertoire, créer une branche, déplacer le fichier en le renommant. Merger la branch.
-3.2. De la racine vers le nouveau ou existant répertoire. Il suffit de renommer le fichier en précisant le répertoire cible
+- Déplacement entre répertoire. Semble compliqué car on ne peut pas réécrire sur le répertoire. Revenir à l'état avant la mise dans le répertoire, créer une branche, déplacer le fichier en le renommant. Merger la branch.
+- De la racine vers le nouveau ou existant répertoire. Il suffit de renommer le fichier en précisant le répertoire cible
 
