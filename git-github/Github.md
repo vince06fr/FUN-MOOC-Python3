@@ -42,5 +42,7 @@ Ce sont les fichiers comme les images, pdf, ipynb... qui ne peuvent pas être re
 - Le dépôt forké apparaît dans notre liste des dépôts. Il est complètement modifiable
 - Pour forker un dépôt, il sufit de visiter un dépôt et de cliquer sur le bouton Fork à haut à droite, le compteur des forks s'incrémente
 - Lorsque l'on supprime son dépôt forké, le compteur du propriétaire se décrémente
+- Le dépôt d'origine n'est pas synchronisé, les modifications n'apparaîtront pas. Pour garder la synchronisation, il faut créer un dépôt local synchronisé avec le dépôt d'origine. Ce dépôt local sera don synchronisé. Puis il faut synchronisé son dépôt sur github avec ce dépôt local
+- On peut voir les utilisateurs de Github qui ont forkés un projet en allant dans ce projet puis Insight et Fork (menu de gauche)
 
 
