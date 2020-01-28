@@ -20,10 +20,10 @@
 Fichiers markdown avec l'extension.md
 
 ## Les fichiers de code
-En fait les fichiers textes, exemple .py
+En fait les fichiers texte, exemple xxx.py
 
 ## Les fichiers binaires
-Ce sont les fichiers comme les images, pdf... qui ne peuvent pas être retournés par un éditeur de texte
+Ce sont les fichiers comme les images, pdf, ipynb... qui ne peuvent pas être retournés par un éditeur de texte. Ils sont retournés dans un "viewer"
 
 ## Le répertoire
 1. Création. En créant un premier fichier en ajoutant le chemin
@@ -35,4 +35,12 @@ Ce sont les fichiers comme les images, pdf... qui ne peuvent pas être retourné
 
 - Déplacement entre répertoire. Semble compliqué car on ne peut pas réécrire sur le répertoire. Revenir à l'état avant la mise dans le répertoire, créer une branche, déplacer le fichier en le renommant. Merger la branch.
 - De la racine vers le nouveau ou existant répertoire. Il suffit de renommer le fichier en précisant le répertoire cible
+
+
+## Les forks
+- Permet de "télécharger" le dépôt d'un autre utilisateur (si les droits le permettent) pour modifs, création d'un autre projet ou faire des propositions d'améliorations.
+- Le dépôt forké apparaît dans notre liste des dépôts. Il est complètement modifiable
+- Pour forker un dépôt, il sufit de visiter un dépôt et de cliquer sur le bouton Fork à haut à droite, le compteur des forks s'incrémente
+- Lorsque l'on supprime son dépôt forké, le compteur du propriétaire se décrémente
+
 
