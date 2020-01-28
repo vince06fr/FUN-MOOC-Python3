@@ -1,5 +1,16 @@
 # Github
 
+# Menu
+1. Code. permet de voir et d'accéder aux fichiers
+2. Issues. les bugs qui ont été détectés. Permet aussi le suivi
+3. Pll request. Des propositions de modifications corrections de fichiers qui peuvent être traitées et intégrées directement dans les fichiers source
+4. Actions. ??? A voir plus tard :)
+5. Project. La gestion par Kanban du projet de ce dépôt. Il existe aussi des projets au niveau du compte utilisateur
+6. Wiki. Pour expliquer votre programme
+7. Security. ???
+8. Insight. ??? 
+9. Permet des modifications au niveau du dépôt comme changer le nom, le supprimer
+
 # Les repertoires
 1. Dans le compte > Your repertories
 2. En cliquant sur son nom en haut de l'écran
