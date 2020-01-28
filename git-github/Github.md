@@ -37,7 +37,7 @@ Ce sont les fichiers comme les images, pdf, ipynb... qui ne peuvent pas être re
 - De la racine vers le nouveau ou existant répertoire. Il suffit de renommer le fichier en précisant le répertoire cible
 
 
-## Les forks
+# Les forks
 - Permet de "télécharger" le dépôt d'un autre utilisateur (si les droits le permettent) pour modifs, création d'un autre projet ou faire des propositions d'améliorations.
 - Le dépôt forké apparaît dans notre liste des dépôts. Il est complètement modifiable
 - Pour forker un dépôt, il sufit de visiter un dépôt et de cliquer sur le bouton Fork à haut à droite, le compteur des forks s'incrémente
@@ -45,4 +45,10 @@ Ce sont les fichiers comme les images, pdf, ipynb... qui ne peuvent pas être re
 - Le dépôt d'origine n'est pas synchronisé, les modifications n'apparaîtront pas. Pour garder la synchronisation, il faut créer un dépôt local synchronisé avec le dépôt d'origine. Ce dépôt local sera don synchronisé. Puis il faut synchronisé son dépôt sur github avec ce dépôt local
 - On peut voir les utilisateurs de Github qui ont forkés un projet en allant dans ce projet puis Insight et Fork (menu de gauche)
 
+
+# Les pull requests
+1. Permet de proposer des modifications sur les dépôts d'autres utilisateurs de Github. D'autres peuvent aussi vous faire des propositions de modifications.
+2. A priori, pas de pull requests pour son propre dépôt, pas d'analyse partagé pour son propre code
+3. Dans Pull Request d'un dépôt, on voit les PR des autres vers son code. 
+4. Les PR que l'on a proposé pour d'autres dépôts sont dans la page de l'utilisateur, menu supérieur, Pull requests.
 
