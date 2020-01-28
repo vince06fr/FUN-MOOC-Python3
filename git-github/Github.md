@@ -3,7 +3,7 @@
 # Menu
 1. Code. permet de voir et d'accéder aux fichiers
 2. Issues. les bugs qui ont été détectés. Permet aussi le suivi
-3. Pll request. Des propositions de modifications corrections de fichiers qui peuvent être traitées et intégrées directement dans les fichiers source
+3. Pull request. Des propositions de modifications corrections de fichiers qui peuvent être traitées et intégrées directement dans les fichiers source
 4. Actions. ??? A voir plus tard :)
 5. Project. La gestion par Kanban du projet de ce dépôt. Il existe aussi des projets au niveau du compte utilisateur
 6. Wiki. Pour expliquer votre programme
